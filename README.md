@@ -16,11 +16,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/etn_aasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="etn_aasu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/etn_aasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="etn_aasu" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100077425633058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077425633058" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshay-bhagat-35081423a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="etn_aasu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100077425633058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077425633058" height="30" width="40" /></a>
 <a href="https://instagram.com/etn_aasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="etn_aasu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://m.youtube.com/channel/ucm1qm9ziqckgsbx0cm9xvww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://m.youtube.com/channel/ucm1qm9ziqckgsbx0cm9xvww" height="30" width="40" /></a>
-<a href="https://discord.gg/etn_aasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="etn_aasu" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCM1qm9ziQckGSBx0cM9Xvww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://m.youtube.com/channel/ucm1qm9ziqckgsbx0cm9xvww" height="30" width="40" /></a>
+<a href="https://discord.gg/etn_aasu#1796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="etn_aasu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
