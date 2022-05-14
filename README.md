@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **HTMl , CSS , PYTHON , BOOTSTRAP, JAVA**
 
-- 👯 I’m looking to collaborate on **C++**
+- 👯 I’m looking to collaborate on **Etn**
 
 - 🤝 I’m looking for help with **Python**
 
